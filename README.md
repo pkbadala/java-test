@@ -1,6 +1,5 @@
 # JAVA Test
-
-In this project we are make some API for assignment related
+In this project we have created some API for assignment related.
 
 ## Getting Started
 
@@ -12,7 +11,7 @@ Java 8
 
 ## Running the code
 Run your application as a spring boot app.
-For making JAR, we need to do : maven clean & maven install.
+For making JAR, we need to do : maven clean & maven install OR mvn clean install
 
 ## Testing the code
 we are testing code by postman & Junit test case as well.
